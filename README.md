@@ -1,1 +1,1 @@
-# Entertainment Hub
+# Movies App
